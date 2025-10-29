@@ -1,0 +1,4 @@
+# Create a ship good primary and bad secondary
+GT4500,1,0,0,1
+TORPEDO,SINGLE  # should fire
+TORPEDO,SINGLE  # should fire
