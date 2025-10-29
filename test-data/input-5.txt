@@ -1,0 +1,4 @@
+# Create a ship with only the secondary torpedo stores stocked
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # shouldn't fire
+TORPEDO,SINGLE # should fire
